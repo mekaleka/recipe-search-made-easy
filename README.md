@@ -7,7 +7,7 @@ This Recipe Search application is designed so that anyone can use it to look up 
 
 [Link to deployed app](https://mekaleka.github.io/recipe-search-made-easy/)
 <br>
-[Professional slides](https://docs.google.com/presentation/d/1w22mMJO0zCDD1QSSTwiXPCT9aIAQXoApaoE2dsytWdg/edit?usp=sharing)
+[Professional slides]()
 
 ### Project Owners:
 * Michael Plichta
